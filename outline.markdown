@@ -207,7 +207,7 @@ Concepts: Information Security, Security Breach, Information Security Management
 
 Readings:
 
-- Upton & Sadie (2014) [The danger from within |HBR](https://hbr.org/2014/09/the-danger-from-within)
+- Upton & Sadie (2014) [The danger from within](https://hbr.org/2014/09/the-danger-from-within)
 - Solms & Solms (2004) [The 10 deadly sins of information security management](http://www.uio.no/studier/emner/matnat/ifi/INF3510/v10/learningdocs/VonSolms-10-Deadly-Sins.pdf)
 
 Resources:
