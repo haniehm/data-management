@@ -51,6 +51,7 @@ Readings:
 
 - Kitchin Chapter 3 (Open and Linked Data)
 - Spiekermann et al. (2015) [Personal data markets (Access through McGill library)](http://link.springer.com/article/10.1007/s12525-015-0190-1)
+
 Activity: Discussing projects
 
 Resources:
