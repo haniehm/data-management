@@ -128,7 +128,7 @@ Readings:
 
 Resources:
 
-- [Apple, Google, Microsoft: Where does the money come from? | ZDNet](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
+- [Apple, Google, Microsoft: Where does the money come from?](http://www.zdnet.com/apple-google-microsoft-where-does-the-money-come-from-7000026043/)
 - [Facebook: Quarterly Earning Slides Q3 2015.](http://files.shareholder.com/downloads/AMDA-NJ5DZ/1237862025x0x859098/DC6C9112-AFF6-4E76-9168-7DBA0D5FFDAB/FB_Q3_15_Earnings_Slides_FINAL.pdf)
 
 ***
@@ -159,7 +159,7 @@ Readings:
 Activity: Guest Speaker - Guillaume Bédard
 
 Resource:
-[The Details About the CIA's Deal With Amazon | The Atlantic](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
+[The Details About the CIA's Deal With Amazon](http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/)
 
 ***
 ### Session 11
